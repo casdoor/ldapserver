@@ -1,4 +1,4 @@
-module github.com/forestmgy/ldapserver
+module github.com/casdoor/ldapserver
 
 go 1.14
 
